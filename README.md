@@ -66,6 +66,13 @@ Upload a 3D model of a house and walk through it at real-world scale on desktop 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
+**AI & Machine Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge" alt="Artificial Intelligence"/>
+</p>
+
 **Systems & Tools**
 
 <p>
@@ -81,6 +88,7 @@ Upload a 3D model of a house and walk through it at real-world scale on desktop 
 | 🌐 **Web** | Build multi-page sites with HTML, CSS, and JavaScript (ES modules); use Vite for dev and builds |
 | 🥽 **3D / VR** | Three.js scenes, model loading, PBR lighting, WebXR sessions and controller input |
 | 🐍 **Python** | Scripts and small programs with variables, loops, and functions |
+| 🤖 **AI & ML** | Machine learning fundamentals and using AI tools, with Python |
 | 🛠 **Tools** | Git & GitHub workflow, VS Code, npm |
 
 ---
@@ -91,6 +99,7 @@ Upload a 3D model of a house and walk through it at real-world scale on desktop 
 - 🐧 Linux system fundamentals (services, networking, processes)
 - 🐍 Python for automation
 - 🌐 Deeper JavaScript and modern web development
+- 🤖 AI & Machine Learning (ML concepts and algorithms, AI tools, Python for ML)
 
 ---
 
