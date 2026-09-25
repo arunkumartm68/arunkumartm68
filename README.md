@@ -24,9 +24,9 @@ I am currently building strong fundamentals and beginner-level projects while pr
 - Comfortable working in Linux environment
 
 ### 🌐 Web Development
-- HTML (basic structure)
-- CSS (basic styling)
-- JavaScript (basics – learning)
+- HTML 
+- CSS 
+- JavaScript 
 
 ### 🐍 Python
 - Variables, loops, functions
