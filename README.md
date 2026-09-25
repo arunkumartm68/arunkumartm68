@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Arun Kumar T M</h1>
 
 <p align="center">
-  <b>MCA Graduate · Linux Enthusiast · Web & VR Developer</b><br/>
+  <b>MCA Graduate · Linux Enthusiast · Web, VR & Game Developer</b><br/>
   Building things for the browser, from web apps to immersive WebXR experiences.
 </p>
 
@@ -73,6 +73,13 @@ Upload a 3D model of a house and walk through it at real-world scale on desktop 
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge" alt="Artificial Intelligence"/>
 </p>
 
+**Game Development**
+
+<p>
+  <img src="https://img.shields.io/badge/Game%20Development-E11D48?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Game Development"/>
+  <img src="https://img.shields.io/badge/Interactive%203D-0EA5E9?style=for-the-badge" alt="Interactive 3D"/>
+</p>
+
 **Systems & Tools**
 
 <p>
@@ -89,6 +96,7 @@ Upload a 3D model of a house and walk through it at real-world scale on desktop 
 | 🥽 **3D / VR** | Three.js scenes, model loading, PBR lighting, WebXR sessions and controller input |
 | 🐍 **Python** | Scripts and small programs with variables, loops, and functions |
 | 🤖 **AI & ML** | Machine learning fundamentals and using AI tools, with Python |
+| 🎮 **Game Dev** | Interactive 3D worlds, player movement and controller input, real-time rendering |
 | 🛠 **Tools** | Git & GitHub workflow, VS Code, npm |
 
 ---
@@ -100,6 +108,17 @@ Upload a 3D model of a house and walk through it at real-world scale on desktop 
 - 🐍 Python for automation
 - 🌐 Deeper JavaScript and modern web development
 - 🤖 AI & Machine Learning (ML concepts and algorithms, AI tools, Python for ML)
+- 🎮 Game Development (game design, mechanics, and building playable projects)
+
+---
+
+## 🎬 Beyond Code
+
+Outside of tech, I love storytelling:
+
+- 🎥 **Film Making**
+- 🎬 **Direction**
+- ✍️ **Screenplay Writing**
 
 ---
 
